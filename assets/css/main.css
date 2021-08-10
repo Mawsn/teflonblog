@@ -1,5 +1,5 @@
 .main-body {
-  background: var(--bs-dark);
+  background: var(--bs-white);
 }
 
 .parent {
@@ -25,5 +25,11 @@ model-viewer {
 .3d-container {
   margin: auto;
   display: block;
+}
+
+.main-content {
+  margin-top: 10px;
+  background-color: rgb(251,251,243);
+  box-shadow: 1px 10px 10px 10px #bebebe;
 }
 
