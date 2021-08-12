@@ -52,3 +52,11 @@ model-viewer {
   display: block;
 }
 
+.references {
+  word-wrap: break-word;
+}
+
+.in-text-reference {
+  color: blue;
+}
+
