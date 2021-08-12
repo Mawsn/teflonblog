@@ -33,3 +33,15 @@ model-viewer {
   box-shadow: 1px 10px 10px 10px #bebebe;
 }
 
+.teflon-compound-image {
+  width: 50%;
+  margin: auto;
+  display: block;
+}
+
+.figure-label {
+  margin: auto;
+  text-align: center;
+  font-size: 8px;
+}
+
